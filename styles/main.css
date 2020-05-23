@@ -35,7 +35,7 @@ main h2 {
 	color: #800000;
 }
 
-main h1 {
+main h3 {
 	font-size: 105%;
 }
 
@@ -45,8 +45,24 @@ a:hover
     font-style: italic;
 }
 
+ul {
+    list-style: none;
+    padding: 0px;
+}
+
+ul li:before
+{
+    content: ',';
+    margin: 0 1em;    /* any design */
+}
+
+.shadow {
+	text-shadow:1px 1px #800000;
+}
+
 /* the styles for the footer */
 
 footer p {
-	text-align: center;	
+	text-align: center;
 }
+
