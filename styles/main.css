@@ -11,12 +11,6 @@ body {
 }
 
 /* the styles for the header */
-body {
-  	margin-top: 100px;
-  	margin-bottom: 100px;
-  	margin-right: 150px;
-  	margin-left: 80px;
-}
 
 header h2 {
 	font-size: 170%;
