@@ -30,6 +30,10 @@ header h3 {
 	text-indent: 30px;
 }
 
+header img {
+	float: left;
+}
+
 /* the styles for the section */
 main {
 	clear: left;
